@@ -1,4 +1,4 @@
-# itlogia-course-frontend
+# itlogia-angular-build
 ![Машинка для красоты](/images/main-car.png)
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/iZelikov/itlogia-course-frontend)
