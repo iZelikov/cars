@@ -1,0 +1,12 @@
+# itlogia-course-frontend
+![Машинка для красоты](/images/main-car.png)
+
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/iZelikov/itlogia-course-frontend)
+
+Учебный сайт, созданный по вроме прохождения бесплатного курса от платформы IT-logia. 
+
+Сайт имитирует работу интернет-сервиса по аренде элитных автомобилей. 
+
+В этом репозитории лежит билд [angular-проекта](https://github.com/iZelikov/itlogia-angular)
+
+[Результат можно посмотреть по ссылке](https://izelikov.github.io/cars/)
